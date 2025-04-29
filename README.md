@@ -25,15 +25,16 @@ This repository contains the code, simulations, and analysis for optimizing coop
 ---
 
 ## 📂 Repository Structure
-├── algorithms/ # Algorithm implementations (SA, GA, PSO, TLBO)
-│ ├── sa/
-│ ├── ga/
-│ ├── pso/
-│ └── tlbo/
-├── config/ # Parameter files (YAML/JSON)
-├── data/ # Inputs (map dimensions, target/obstacle coordinates)
-├── results/ # Generated plots and convergence graphs
-├── report/ # Final report (PDF) and LaTeX sources
-├── tests/ # Test cases and validation scripts
-├── LICENSE
-└── requirements.txt # Python dependencies
+```text
+├── algorithms/           # Algorithm implementations (SA, GA, PSO, TLBO)
+│   ├── sa/               # Simulated Annealing
+│   ├── ga/               # Genetic Algorithm
+│   ├── pso/              # Particle Swarm Optimization
+│   └── tlbo/             # Teaching-Learning-Based Optimization
+├── config/               # Parameter configuration files (YAML/JSON)
+├── data/                 # Input data (e.g., map dimensions, target/obstacle coordinates)
+├── results/              # Generated plots and convergence graphs
+├── report/               # Final report (PDF) and LaTeX sources
+├── tests/                # Test cases and validation scripts
+├── LICENSE               # Project license
+└── requirements.txt      # Python dependencies
