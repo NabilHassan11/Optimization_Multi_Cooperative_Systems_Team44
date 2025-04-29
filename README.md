@@ -62,8 +62,8 @@ This repository contains the code, simulations, and analysis for optimizing coop
 ## ⚙️ Installation
 
 ### Prerequisites
-- Python 3.8+
-- MATLAB (optional for alternative implementations)
+- Python 3.8+  (optional for alternative implementations)
+- MATLAB
 
 1. **Clone the repository**:
    ```bash
