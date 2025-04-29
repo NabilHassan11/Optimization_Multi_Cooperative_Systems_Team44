@@ -38,3 +38,16 @@ This repository contains the code, simulations, and analysis for optimizing coop
 ├── tests/                # Test cases and validation scripts
 ├── LICENSE               # Project license
 └── requirements.txt      # Python dependencies
+```
+---
+
+## ⚙️ Installation
+
+### Prerequisites
+- Python 3.8+
+- MATLAB (optional for alternative implementations)
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Team44-GUC/Multi-UAV-Optimization.git
+   cd Multi-UAV-Optimization
