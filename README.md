@@ -2,7 +2,6 @@
 
 **Course**: MCTR 1021 - Optimization Techniques for Multi Cooperative Systems  
 **Institution**: German University in Cairo, Faculty of Engineering and Materials Science  
-**Team 44**: Ahmed Daw, Amr Mahgoub, Nabil Hassan, Mohamed Ashraf, Mohamed Yasser, Abdulrahman Manea  
 **Supervisor**: Assoc. Prof. Dr. Omar Shehata  
 
 ---
