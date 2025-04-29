@@ -1,7 +1,5 @@
 # Multi-UAV Cooperative Target Exploration Optimization
 
-![Project Banner](images/sample_banner.png) <!-- Optional: Add a banner image if available -->
-
 **Course**: MCTR 1021 - Optimization Techniques for Multi Cooperative Systems  
 **Institution**: German University in Cairo, Faculty of Engineering and Materials Science  
 **Team 44**: Ahmed Daw, Amr Mahgoub, Nabil Hassan, Mohamed Ashraf, Mohamed Yasser, Abdulrahman Manea  
@@ -27,3 +25,15 @@ This repository contains the code, simulations, and analysis for optimizing coop
 ---
 
 ## 📂 Repository Structure
+├── algorithms/ # Algorithm implementations (SA, GA, PSO, TLBO)
+│ ├── sa/
+│ ├── ga/
+│ ├── pso/
+│ └── tlbo/
+├── config/ # Parameter files (YAML/JSON)
+├── data/ # Inputs (map dimensions, target/obstacle coordinates)
+├── results/ # Generated plots and convergence graphs
+├── report/ # Final report (PDF) and LaTeX sources
+├── tests/ # Test cases and validation scripts
+├── LICENSE
+└── requirements.txt # Python dependencies
