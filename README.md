@@ -40,6 +40,24 @@ This repository contains the code, simulations, and analysis for optimizing coop
 └── requirements.txt      # Python dependencies
 ```
 ---
+## 📊 Results
+
+### Algorithm Comparison (15 Runs)
+
+| Algorithm | Std. Deviation | Mean Fitness | Best Fitness |
+|-----------|----------------|--------------|--------------|
+| SA        | 26.94          | 111.58       | 85.43        |
+| GA        | 6.75           | 76.63        | 72.56        |
+| PSO       | 4.38           | 89.11        | 81.87        |
+| TLBO      | 12.26          | 137.70       | 122.13       |
+
+### 🔍 Key Insights
+
+- **GA** achieved the lowest best fitness (**72.56**) but requires careful tuning to avoid local minima.
+- **PSO** was the most consistent algorithm with the **lowest standard deviation**.
+- **SA** converged the fastest but often settled for suboptimal solutions.
+
+---
 
 ## ⚙️ Installation
 
