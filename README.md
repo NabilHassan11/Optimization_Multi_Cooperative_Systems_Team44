@@ -16,7 +16,7 @@ This repository contains the code, simulations, and analysis for optimizing coop
 
 ---
 
-## 🚀 Key Features
+## 🦀 Key Features
 - **Algorithm Implementations**: Code for SA, GA, PSO, and TLBO with customizable parameters.
 - **Constraint Handling**: Avoid restricted zones, maintain safe inter-UAV distances, and enforce velocity/angle limits.
 - **Dynamic Visualization**: Plot UAV paths, convergence curves, and fitness metrics.
