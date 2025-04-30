@@ -1,0 +1,1 @@
+I uploaded a new fixed code for Milestone 3 in its folder, today, I will also upload a new video showing the visualization of the code, and update the report submitted in milestone 4's folder to include the performance indices comparisons and results analysis, with more case studies for the GA and SA 

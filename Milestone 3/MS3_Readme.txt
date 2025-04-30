@@ -1,0 +1,3 @@
+*Important:*
+
+The code does not print out the path taken by the UAVs, however it shows 2 maps at the end of the simulation, one showing the initial positions and target positions, and one showing the final position, where it converges to the targets, it also shows the objective function curve as the iterations proceed, while simulating, you can see how the temperature values changes geometrically, as the iterations go
