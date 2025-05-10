@@ -66,5 +66,6 @@ This repository contains the code, simulations, and analysis for optimizing coop
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Team44-GUC/Multi-UAV-Optimization.git
-   cd Multi-UAV-Optimization
+   git clone https://github.com/Optimization_Multi_Cooperative_Systems_Team44.git
+   cd Optimization_Multi_Cooperative_Systems_Team44
+
